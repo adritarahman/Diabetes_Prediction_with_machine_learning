@@ -41,9 +41,9 @@ This project uses the PIMA Indian Diabetes Dataset, commonly used for binary cla
 
 ### 🛠 Technologies Used
 
-Python
-NumPy
-Pandas
-Scikit-Learn
-Jupyter Notebook
+Python  
+NumPy  
+Pandas  
+Scikit-Learn  
+Jupyter Notebook  
 
